@@ -122,6 +122,7 @@ The system consists of two main modules:
 ## Circuit Diagram
 
 The circuit design can be found in the included Proteus simulation file. Open it using Proteus Design Suite to explore or modify the circuit.
+
 <img width="1920" alt="Screenshot 2024-11-21 at 12 23 02 AM" src="https://github.com/user-attachments/assets/217f50d2-e043-4067-9f75-6ef0389a6f5a">
 
 
